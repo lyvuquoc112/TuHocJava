@@ -12,7 +12,7 @@ import controller.*;
  *
  * @author hanly
  */
-public class testStudentManagemet {
+public class TestStudentManagemet {
     public static void main(String[] args) {
         // test quản lí học sinh
         StudentManagement studentManagement = new StudentManagement();
